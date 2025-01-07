@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zaid49558942" target="blank"><img src="https://img.shields.io/twitter/follow/zaid49558942?logo=twitter&style=for-the-badge" alt="zaid49558942" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://github.com/zaid50015/e-commerce-app)
+- 🔭 I’m currently working on a [Chat-app]
 
 - 🌱 I’m currently learning **react-redux**
 
