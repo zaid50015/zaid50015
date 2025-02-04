@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [Chat-app]
 
-- 🌱 I’m currently learning **react-redux**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **react,javascript and nodejs**
 
